@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Routes, Route, NavLink } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route, NavLink } from 'react-router-dom';
 import Investments from './pages/Investments.jsx';
 import Goals from './pages/Goals.jsx';
 import Liabilities from './pages/Liabilities.jsx';
